@@ -1,8 +1,8 @@
-const thisIsAString = "Yeah";
-const thisIsANumber = 30;
-let thisIsNotUsed;
+const thisIsAString: string = "Yeah";
+const thisIsANumber: number = 30;
+let thisIsNotUsed: number; 
 
-thisIsNotUsed = "5"
+thisIsNotUsed = 5;
 
 // const newObj = new Object();
 // const newMap = new Map();
